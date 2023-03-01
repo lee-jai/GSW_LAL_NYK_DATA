@@ -1,5 +1,5 @@
 # GSW_LAL_NYK_Data
-i310D_asssignment_7<br><br>
+i310D_asssignment_7<br><
 
 Goal:<br>
 The goal of my project is to see if there is a change in points per game over the history of the NBA. To do this, I chose the three highest valued(in dollars) teams in the NBA.<br><br>
