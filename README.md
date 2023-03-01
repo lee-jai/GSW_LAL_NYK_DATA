@@ -2,13 +2,13 @@
 i310D_asssignment_7<br>
 
 Goal:<br>
-The goal of my project is to see if there is a change in points per game over the history of the NBA. To do this, I chose the three highest valued(in dollars) teams in the NBA.<br><br>
+The goal of my project is to see if there is a change in points per game over the history of the NBA. To do this, I chose the three highest valued(in dollars) teams in the NBA.<br>
 
 API:<br>
-I used webscraping.<br><br>
+I used webscraping.<br>
 
 Data License:<br>
-The license of the data is owned by Sports Reference LLC. It is available for personal, non-commercial use only.<br><br>
+The license of the data is owned by Sports Reference LLC. It is available for personal, non-commercial use only.<br>
 
 Data Attributes:<br>
 "Season" is numerical data, describing the year of the NBA season.<br>
@@ -42,7 +42,7 @@ Data Attributes:<br>
 "BLK" is numerical data, describing blocks per game.<br>
 "TOV" is numerical data, describing turnovers per game.<br>
 "PF" is numerical data, describing personal fouls per game.<br>
-"PTS" is numerical data, describing points per game.<br><br>
+"PTS" is numerical data, describing points per game.<br>
 
 Issues:<br>
 Some data are missing for earlier season because technology was not developed enough to gather the statistics during games.
