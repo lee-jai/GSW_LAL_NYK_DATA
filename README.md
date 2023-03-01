@@ -44,5 +44,5 @@ Data Attributes:<br>
 "PTS" is numerical data, describing points per game.<br>
 
 Issues:<br>
-Some data are missing for earlier season because technology was not developed enough to gather the statistics during games.
+Some data are missing for earlier seasons because technology was not developed enough to gather the statistics during games.
 
