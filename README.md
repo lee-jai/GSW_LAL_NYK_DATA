@@ -20,7 +20,7 @@ Data Attributes:<br>
 "HT." is numerical data, describing the average height of the players on the team.<br>
 "Wt." is numerical data, describing the average weight of the players on the team.<br>
 "G" is numerical data, describing the number of games played.<br>
-"MP" is numerical data, describing mintues played per game.<br>
+"MP" is numerical data, describing minutes played per game.<br>
 "FG" is numerical data, describing field goals made per game.<br>
 "FGA" is numerical data, describing feild goal attempts per game.<br>
 "FG%" is numerical data, describing field goal percentage.<br>
