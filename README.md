@@ -29,11 +29,11 @@ Data Attributes:<br>
 "3P%" is numerical data, describing 3 point field goal percentage.<br>
 "2P" is numerical data, describing 2 point field goals made per game.<br>
 "2PA" is numerical data, describing 2 point field goal attempts per game.<br>
-"2P%" is numerical data, describing 2 point field percentage .<br>
+"2P%" is numerical data, describing 2 point field percentage.<br>
 "FT" is numerical data, describing free throws made per game.<br>
 "FTA" is numerical data, describing free throw attempts per game.<br>
 "FT%" is numerical data, describing free throw percentage.<br>
-"ORB" is numerical data, describing ofensive rebounds per game.<br>
+"ORB" is numerical data, describing offensive rebounds per game.<br>
 "DRB" is numerical data, describing defensive rebounds per game.<br>
 "TRB" is numerical data, describing total rebounds per game.<br>
 "AST" is numerical data, describing assists per game.<br>
