@@ -22,7 +22,7 @@ Data Attributes:<br>
 "G" is numerical data, describing the number of games played.<br>
 "MP" is numerical data, describing minutes played per game.<br>
 "FG" is numerical data, describing field goals made per game.<br>
-"FGA" is numerical data, describing feild goal attempts per game.<br>
+"FGA" is numerical data, describing field goal attempts per game.<br>
 "FG%" is numerical data, describing field goal percentage.<br>
 "3P" is numerical data, describing 3 point field goals made per game.<br>
 "3PA" is numerical data, describing 3 point field goal attempts per game.<br>
